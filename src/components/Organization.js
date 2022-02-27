@@ -39,7 +39,7 @@ function Organization() {
           </div>
           <div className="col-md-3 item-box">
             <h2 className="custom-font numb">04</h2>
-            <p>प्रतिभाभोज</p>
+            <p>प्रतिभोज</p>
             <p>शनिवार, 4 मार्च,2022</p>
             <p>समय- 5:00PM</p>
             <p>स्थान - चौपाल नं.2,गांव घॏण्डली कृष्णा नगर दिल्ली</p>
