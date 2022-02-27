@@ -1,0 +1,38 @@
+{
+  "files": {
+    "main.css": "/invite/static/css/main.2f86d568.chunk.css",
+    "main.js": "/invite/static/js/main.e4e4d31a.chunk.js",
+    "main.js.map": "/invite/static/js/main.e4e4d31a.chunk.js.map",
+    "runtime-main.js": "/invite/static/js/runtime-main.1bd1dc78.js",
+    "runtime-main.js.map": "/invite/static/js/runtime-main.1bd1dc78.js.map",
+    "static/js/2.38418531.chunk.js": "/invite/static/js/2.38418531.chunk.js",
+    "static/js/2.38418531.chunk.js.map": "/invite/static/js/2.38418531.chunk.js.map",
+    "static/js/3.899ad9f7.chunk.js": "/invite/static/js/3.899ad9f7.chunk.js",
+    "static/js/3.899ad9f7.chunk.js.map": "/invite/static/js/3.899ad9f7.chunk.js.map",
+    "index.html": "/invite/index.html",
+    "service-worker.js": "/invite/service-worker.js",
+    "service-worker.js.map": "/invite/service-worker.js.map",
+    "static/css/main.2f86d568.chunk.css.map": "/invite/static/css/main.2f86d568.chunk.css.map",
+    "static/js/2.38418531.chunk.js.LICENSE.txt": "/invite/static/js/2.38418531.chunk.js.LICENSE.txt",
+    "static/media/1.edb888e0.jpg": "/invite/static/media/1.edb888e0.jpg",
+    "static/media/2.3d5834ed.jpg": "/invite/static/media/2.3d5834ed.jpg",
+    "static/media/3.29964c6d.jpg": "/invite/static/media/3.29964c6d.jpg",
+    "static/media/4.160bae52.jpg": "/invite/static/media/4.160bae52.jpg",
+    "static/media/5.d6bba864.jpg": "/invite/static/media/5.d6bba864.jpg",
+    "static/media/6.708a9749.jpg": "/invite/static/media/6.708a9749.jpg",
+    "static/media/Bride.6aa9c36b.jpg": "/invite/static/media/Bride.6aa9c36b.jpg",
+    "static/media/index.css": "/invite/static/media/wedding-logo.6990e6f8.png",
+    "static/media/groom.6c22ff61.jpg": "/invite/static/media/groom.6c22ff61.jpg",
+    "static/media/logo.c89c62cf.png": "/invite/static/media/logo.c89c62cf.png",
+    "static/media/story.e4e9411f.jpg": "/invite/static/media/story.e4e9411f.jpg",
+    "static/media/where-1.72bfde4a.jpg": "/invite/static/media/where-1.72bfde4a.jpg",
+    "static/media/where-2.1f12a5cd.jpg": "/invite/static/media/where-2.1f12a5cd.jpg",
+    "static/media/where-3.b0a204f7.jpg": "/invite/static/media/where-3.b0a204f7.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1bd1dc78.js",
+    "static/js/2.38418531.chunk.js",
+    "static/css/main.2f86d568.chunk.css",
+    "static/js/main.e4e4d31a.chunk.js"
+  ]
+}
