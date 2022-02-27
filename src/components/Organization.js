@@ -16,31 +16,33 @@ function Organization() {
         >
           <div className="col-md-3 item-box">
             <h2 className="custom-font numb">01</h2>
-            <h6 className="title">Lagan Sagai</h6>
-            <p>Friday, 19th Nov,2022</p>
-            <p>Time- 3:00PM</p>
-            <p>Venue-Hotel Lime Wood</p>
+            <h6 className="title">हल्दी</h6>
+            <p>बुधवार, 2 मार्च,2022</p>
+            <p>समय- 2:00PM</p>
+            <p>स्थान -दिल्ली</p>
           </div>
           <div className="col-md-3 item-box">
             <h2 className="custom-font numb">02</h2>
-            <h6 className="title">Mehndi</h6>
-            <p>20th Nov,2022</p>
-            <p>Time- 7:00PM</p>
-            <p>Venue-House no. 291 JF Pocket Ganga Nagar</p>
+            <h6 className="title">मेहंदी</h6>
+            <p>शुक्रवार, 3 मार्च,2022</p>
+            <p>समय- 2:00PM</p>
+            <p>स्थान -दिल्ली</p>
+          
           </div>
           <div className="col-md-3 item-box">
             <h2 className="custom-font numb">03</h2>
-            <h6 className="title">Madha</h6>
-            <p>4 Nov,2022</p>
-            <p>Time- 10:00 AM</p>
-            <p>Venue-House no. 291 JF Pocket Ganga Nagar</p>
+            <h6 className="title">घुड़ चडी</h6>
+            <p>शनिवार, 4 मार्च,2022</p>
+            <p>समय- 5:00PM</p>
+            <p>स्थान -दिल्ली</p>
+     
           </div>
           <div className="col-md-3 item-box">
             <h2 className="custom-font numb">04</h2>
-            <h6 className="title">Wedding</h6>
-            <p>4 Nov,2022</p>
-            <p>Dinner Time- 8:00 PM</p>
-            <p>Venue-Paradise View Resort</p>
+            <h6 className="title">प्रतिभाभोजी</h6>
+            <p>शनिवार, 4 मार्च,2022</p>
+            <p>समय- 5:00PM</p>
+            <p>स्थान - चौपाल नं.2,गांव घॏण्डली कृष्णा नगर दिल्ली</p>
           </div>
         </div>
       </div>
