@@ -43,9 +43,9 @@ function Sidebar() {
               <a href="#organization">Organization</a>
             </li>
 
-            <li>
+            {/* <li>
               <a href="#whenwhere">When & Where</a>
-            </li>
+            </li> */}
           </ul>
         </nav>
         <div className="footer1">

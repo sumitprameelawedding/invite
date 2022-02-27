@@ -16,14 +16,14 @@ function Organization() {
         >
           <div className="col-md-3 item-box">
             <h2 className="custom-font numb">01</h2>
-            <h6 className="title">हल्दी</h6>
+            <p>हल्दी</p>
             <p>बुधवार, 2 मार्च,2022</p>
             <p>समय- 2:00PM</p>
             <p>स्थान -दिल्ली</p>
           </div>
           <div className="col-md-3 item-box">
             <h2 className="custom-font numb">02</h2>
-            <h6 className="title">मेहंदी</h6>
+            <p>मेहंदी</p>
             <p>शुक्रवार, 3 मार्च,2022</p>
             <p>समय- 2:00PM</p>
             <p>स्थान -दिल्ली</p>
@@ -31,7 +31,7 @@ function Organization() {
           </div>
           <div className="col-md-3 item-box">
             <h2 className="custom-font numb">03</h2>
-            <h6 className="title">घुड़ चडी</h6>
+            <p >घुड़ चडी</p>
             <p>शनिवार, 4 मार्च,2022</p>
             <p>समय- 5:00PM</p>
             <p>स्थान -दिल्ली</p>
@@ -39,7 +39,7 @@ function Organization() {
           </div>
           <div className="col-md-3 item-box">
             <h2 className="custom-font numb">04</h2>
-            <h6 className="title">प्रतिभाभोजी</h6>
+            <p>प्रतिभाभोज</p>
             <p>शनिवार, 4 मार्च,2022</p>
             <p>समय- 5:00PM</p>
             <p>स्थान - चौपाल नं.2,गांव घॏण्डली कृष्णा नगर दिल्ली</p>

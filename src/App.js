@@ -20,7 +20,7 @@ function App() {
         <Countdown />
         <Organization />
         <Seeyou />
-        <Where />
+        {/* <Where /> */}
         <Footer />
       </div>
     </>
